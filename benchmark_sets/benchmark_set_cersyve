@@ -1,0 +1,12 @@
+benchmarks/cersyve/onnx/lane_keep_pretrain_con.onnx benchmarks/cersyve/vnnlib/prop_lane_keep.vnnlib
+benchmarks/cersyve/onnx/lane_keep_pretrain_inv.onnx benchmarks/cersyve/vnnlib/prop_lane_keep.vnnlib
+benchmarks/cersyve/onnx/lane_keep_finetune_con.onnx benchmarks/cersyve/vnnlib/prop_lane_keep.vnnlib
+benchmarks/cersyve/onnx/lane_keep_finetune_inv.onnx benchmarks/cersyve/vnnlib/prop_lane_keep.vnnlib
+benchmarks/cersyve/onnx/pendulum_pretrain_con.onnx benchmarks/cersyve/vnnlib/prop_pendulum.vnnlib
+benchmarks/cersyve/onnx/pendulum_pretrain_inv.onnx benchmarks/cersyve/vnnlib/prop_pendulum.vnnlib
+benchmarks/cersyve/onnx/pendulum_finetune_con.onnx benchmarks/cersyve/vnnlib/prop_pendulum.vnnlib
+benchmarks/cersyve/onnx/pendulum_finetune_inv.onnx benchmarks/cersyve/vnnlib/prop_pendulum.vnnlib
+benchmarks/cersyve/onnx/point_mass_pretrain_con.onnx benchmarks/cersyve/vnnlib/prop_point_mass.vnnlib
+benchmarks/cersyve/onnx/point_mass_pretrain_inv.onnx benchmarks/cersyve/vnnlib/prop_point_mass.vnnlib
+benchmarks/cersyve/onnx/point_mass_finetune_con.onnx benchmarks/cersyve/vnnlib/prop_point_mass.vnnlib
+benchmarks/cersyve/onnx/point_mass_finetune_inv.onnx benchmarks/cersyve/vnnlib/prop_point_mass.vnnlib
